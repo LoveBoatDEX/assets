@@ -1,0 +1,17 @@
+{
+    "name": "Woofy",
+    "website": "https://woofy.finance/",
+    "description": "Woofy is blue dog companion token of YFI (Wifey).",
+    "explorer": "https://polygonscan.com/token/0xfce22ad802bbc9fe74534575b166d06198bd66ea",
+    "type": "POLYGON",
+    "symbol": "WOOFY",
+    "decimals": 12,
+    "status": "active",
+    "id": "0xfce22ad802bbc9fe74534575b166d06198bd66ea",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/yearn/woofy"
+        }
+    ]
+}
