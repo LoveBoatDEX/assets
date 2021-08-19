@@ -1,0 +1,11 @@
+{
+    "name": "Vision Token",
+    "website": "https://www.vision-crypto.com/",
+    "description": "Vision Token.",
+    "explorer": "https://polygonscan.com/token/0x034b2090b579228482520c589dbD397c53Fc51cC",
+    "type": "POLYGON",
+    "symbol": "VISION",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x034b2090b579228482520c589dbD397c53Fc51cC"
+}
