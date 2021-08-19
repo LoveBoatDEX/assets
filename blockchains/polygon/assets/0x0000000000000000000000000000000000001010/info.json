@@ -1,0 +1,11 @@
+{
+    "name": "Matic Network",
+    "website": "https://matic.network",
+    "description": "Matic Network is a Layer-2 scaling solution that uses sidechains for off-chain computation while ensuring asset security using the Plasma framework and a decentralized network of Proof-of-Stake (PoS) validators.",
+    "explorer": "https://polygonscan.com/address/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "type": "POLYGON",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+}
