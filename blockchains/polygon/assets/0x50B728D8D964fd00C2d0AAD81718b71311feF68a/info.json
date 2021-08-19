@@ -1,0 +1,11 @@
+{
+    "name": "Synthetix Network Token",
+    "website": "https://synthetix.io/",
+    "description": "Synthetix Network Token",
+    "explorer": "https://polygonscan.com/address/0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
+    "type": "POLYGON",
+    "symbol": "SNX",
+    "decimals": 18,
+    "status": "active",
+    "id": "https://polygonscan.com/address/0x50B728D8D964fd00C2d0AAD81718b71311feF68a"
+}
