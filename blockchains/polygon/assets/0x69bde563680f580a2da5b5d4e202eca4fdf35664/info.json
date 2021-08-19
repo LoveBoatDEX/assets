@@ -1,0 +1,29 @@
+{
+    "name": "Love",
+    "website": "https://www.loveboat.exchange/",
+    "description": "The first multi-chain DEX in the Diamond standard built on Polygon and Ethereum.",
+    "explorer": "https://polygonscan.com/address/0x69bde563680f580a2da5b5d4e202eca4fdf35664",
+    "type": "POLYGON",
+    "symbol": "LOVE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x69bde563680f580a2da5b5d4e202eca4fdf35664",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/LoveBoatDEX"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/loveboatdex"
+        },
+        {
+            "name": "medium",
+            "url": "https://loveboatdex.medium.com/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/LoveBoatExchange"
+        }
+    ]
+}
