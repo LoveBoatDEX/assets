@@ -1,0 +1,11 @@
+{
+    "name": "Graph Token",
+    "website": "https://thegraph.com/",
+    "description": "Graph Token",
+    "explorer": "https://polygonscan.com/address/0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+    "type": "POLYGON",
+    "symbol": "GRT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5fe2B58c013d7601147DcdD68C143A77499f5531"
+}
