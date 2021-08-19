@@ -1,13 +1,13 @@
 {
-    "name": "Love",
+    "name": "XOLOVE Dividends",
     "website": "https://www.loveboat.exchange/",
     "description": "The first multi-chain DEX in the Diamond standard built on Polygon and Ethereum.",
-    "explorer": "https://polygonscan.com/address/0x69bde563680f580a2da5b5d4e202eca4fdf35664",
+    "explorer": "https://polygonscan.com/address/0x38a09ef7300becc2de6824423c8ab5c9b93e418c",
     "type": "POLYGON",
-    "symbol": "LOVE",
+    "symbol": "xoLOVE",
     "decimals": 18,
     "status": "active",
-    "id": "0x69bde563680f580a2da5b5d4e202eca4fdf35664",
+    "id": "0x38a09ef7300becc2de6824423c8ab5c9b93e418c",
     "links": [
         {
             "name": "github",
