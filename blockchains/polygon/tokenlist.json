@@ -1,0 +1,262 @@
+{
+    "name": "Love Boat Token List",
+    "timestamp": "2021-07-01T23:57:10.982Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "",
+    "keywords": ["loveboat", "loveboatexchange", "default", "list", "verified"],
+    "tokens": [
+      {
+        "name": "Love",
+        "symbol": "LOVE",
+        "chainId": 137,
+        "address": "0x69bde563680f580a2da5b5d4e202eca4fdf35664",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/token/5afc8e94b3c94d613c52d20432946d3964cc6f0c/LOVE.png"
+      },
+      {
+        "name": "XOLOVE Dividends",
+        "symbol": "xoLOVE",
+        "chainId": 137,
+        "address": "0x38a09ef7300becc2de6824423c8ab5c9b93e418c",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/token/4b8d27c4c696a6d303e1b248d774c0c12f76251b/xoLOVE.png"
+      },
+      {
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "chainId": 137,
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+      },
+      {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "chainId": 137,
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
+      },
+      {
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "chainId": 137,
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/large/dai-multi-collateral-mcd.png"
+      },
+      {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "chainId": 137,
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png"
+      },
+      {
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "chainId": 137,
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "decimals": 8,
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+      },
+      {
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "chainId": 137,
+        "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png"
+      },
+      {
+        "name": "Vision Token",
+        "symbol": "VISION",
+        "chainId": 137,
+        "address": "0x034b2090b579228482520c589dbD397c53Fc51cC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12253/large/vision_icon_200.png"
+      },
+      {
+        "name": "Aave",
+        "symbol": "AAVE",
+        "chainId": 137,
+        "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png"
+      },
+      {
+        "name": "Crv",
+        "symbol": "CRV",
+        "chainId": 137,
+        "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png"
+      },
+      {
+        "name": "renDOGE",
+        "symbol": "renDOGE",
+        "chainId": 137,
+        "address": "0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6",
+        "decimals": 8,
+        "logoURI": "https://assets.coingecko.com/coins/images/13796/large/renDOGE.png"
+      },
+      {
+        "name": "Synthetix Network Token",
+        "symbol": "SNX",
+        "chainId": 137,
+        "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/3406/large/SNX.png"
+      },
+      {
+        "name": "Graph Token",
+        "symbol": "GRT",
+        "chainId": 137,
+        "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png"
+      },
+      {
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "chainId": 137,
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
+      },
+      {
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "chainId": 137,
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/14073/large/matic.jpg"
+      },
+      {
+        "name": "Woofy",
+        "symbol": "WOOFY",
+        "chainId": 137,
+        "address": "0xfce22AD802Bbc9FE74534575b166D06198bD66ea",
+        "decimals": 12,
+        "logoURI": "https://assets.coingecko.com/coins/images/15410/large/woofy.png"
+      },
+      {
+        "name": "Quickswap",
+        "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+        "chainId": 137,
+        "symbol": "QUICK",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/13970/large/1_pOU6pBMEmiL-ZJVb0CYRjQ.png"
+      },
+      {
+        "name": "SushiToken",
+        "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+        "chainId": 137,
+        "symbol": "SUSHI",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "chainId": 80001,
+        "address": "0x2058a9d7613eee744279e3856ef0eada5fcbaa7e",
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+      },
+      {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "chainId": 80001,
+        "address": "0x9e38966f91274f418040241b39deaef43049c233",
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
+      },
+      {
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "chainId": 80001,
+        "address": "0x001b3b4d0f3714ca98ba10f6042daebf0b1b7b6f",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/large/dai-multi-collateral-mcd.png"
+      },
+      {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "chainId": 80001,
+        "address": "0x3c68ce8504087f89c640d02d133646d98e64ddd9",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png"
+      },
+      {
+        "name": "WBTC",
+        "symbol": "WBTC",
+        "chainId": 80001,
+        "address": "0x0d787a4a1548f673ed375445535a6c7a1ee56180",
+        "decimals": 8,
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+      },
+      {
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "chainId": 80001,
+        "address": "0x326c977e6efc84e512bb9c30f76e30c160ed06fb",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png"
+      },
+      {
+        "name": "Crv",
+        "symbol": "CRV",
+        "chainId": 80001,
+        "address": "0x96a3367A2CD8f2963Fd442a26c0f4e7951F75c56",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png"
+      },
+      {
+        "name": "Synthetix Network Token",
+        "symbol": "SNX",
+        "chainId": 80001,
+        "address": "0x99ad600dda7879CFD0FdC55124585603DEED0070",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/3406/large/SNX.png"
+      },
+      {
+        "name": "Graph Token",
+        "symbol": "GRT",
+        "chainId": 80001,
+        "address": "0x0b5da6Dda6569Ab79300AeEe6b30F86cBA347E3a",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png"
+      },
+      {
+        "name": "Matic",
+        "symbol": "MATIC",
+        "chainId": 80001,
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
+      },
+      {
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "chainId": 80001,
+        "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/14073/large/matic.jpg"
+      },
+      {
+        "name": "XOLOVE Dividends",
+        "symbol": "xoLOVE",
+        "chainId": 80001,
+        "address": "0xd7b75e7974cdebc3e591508b33aa93304f333012",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/token/4b8d27c4c696a6d303e1b248d774c0c12f76251b/xoLOVE.png"
+      }
+    ]
+  } 
