@@ -16,7 +16,7 @@
         "chainId": 137,
         "address": "0x69bdE563680f580A2da5b5d4E202ecA4FDF35664",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/token/5afc8e94b3c94d613c52d20432946d3964cc6f0c/LOVE.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x69bdE563680f580A2da5b5d4E202ecA4FDF35664/logo.png"
       },
       {
         "name": "XOLOVE Dividends",
@@ -24,7 +24,7 @@
         "chainId": 137,
         "address": "0x38a09EF7300becc2dE6824423C8AB5C9b93e418c",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/token/4b8d27c4c696a6d303e1b248d774c0c12f76251b/xoLOVE.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x38a09EF7300becc2dE6824423C8AB5C9b93e418c/logo.png"
       },
       {
         "name": "USD Coin (PoS)",
@@ -32,7 +32,7 @@
         "chainId": 137,
         "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
         "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
       },
       {
         "name": "Tether USD",
@@ -40,7 +40,7 @@
         "chainId": 137,
         "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
         "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
       },
       {
         "name": "Dai Stablecoin",
@@ -48,7 +48,7 @@
         "chainId": 137,
         "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/9956/large/dai-multi-collateral-mcd.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
       },
       {
         "name": "Wrapped Ether",
@@ -56,7 +56,7 @@
         "chainId": 137,
         "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
       },
       {
         "name": "Wrapped BTC",
@@ -64,7 +64,7 @@
         "chainId": 137,
         "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
         "decimals": 8,
-        "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.png"
       },
       {
         "name": "ChainLink Token",
@@ -72,7 +72,7 @@
         "chainId": 137,
         "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
       },
       {
         "name": "Vision Token",
@@ -80,7 +80,7 @@
         "chainId": 137,
         "address": "0x034b2090b579228482520c589dbD397c53Fc51cC",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/12253/large/vision_icon_200.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x034b2090b579228482520c589dbD397c53Fc51cC/logo.png"
       },
       {
         "name": "Aave",
@@ -88,7 +88,7 @@
         "chainId": 137,
         "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png"
       },
       {
         "name": "Crv",
@@ -96,7 +96,7 @@
         "chainId": 137,
         "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
       },
       {
         "name": "renDOGE",
@@ -104,7 +104,7 @@
         "chainId": 137,
         "address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
         "decimals": 8,
-        "logoURI": "https://assets.coingecko.com/coins/images/13796/large/renDOGE.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0xcE829A89d4A55a63418bcC43F00145adef0eDB8E/logo.png"
       },
       {
         "name": "Synthetix Network Token",
@@ -112,7 +112,7 @@
         "chainId": 137,
         "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/3406/large/SNX.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x50B728D8D964fd00C2d0AAD81718b71311feF68a/logo.png"
       },
       {
         "name": "Graph Token",
@@ -120,7 +120,7 @@
         "chainId": 137,
         "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x5fe2B58c013d7601147DcdD68C143A77499f5531/logo.png"
       },
       {
         "name": "Aavegotchi GHST Token (PoS)",
@@ -128,7 +128,7 @@
         "chainId": 137,
         "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/12467/large/ghst_200.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/logo.png"
       },
       {
         "name": "Matic Token",
@@ -136,7 +136,7 @@
         "chainId": 137,
         "address": "0x0000000000000000000000000000000000001010",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x0000000000000000000000000000000000001010/logo.png"
       },
       {
         "name": "Wrapped Matic",
@@ -144,7 +144,7 @@
         "chainId": 137,
         "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/14073/large/matic.jpg"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
       },
       {
         "name": "Woofy",
@@ -152,7 +152,7 @@
         "chainId": 137,
         "address": "0xfce22AD802Bbc9FE74534575b166D06198bD66ea",
         "decimals": 12,
-        "logoURI": "https://assets.coingecko.com/coins/images/15410/large/woofy.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0xfce22AD802Bbc9FE74534575b166D06198bD66ea/logo.png"
       },
       {
         "name": "Quickswap",
@@ -160,7 +160,7 @@
         "chainId": 137,
         "symbol": "QUICK",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/13970/large/1_pOU6pBMEmiL-ZJVb0CYRjQ.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x831753DD7087CaC61aB5644b308642cc1c33Dc13/logo.png"
       },
       {
         "name": "SushiToken",
@@ -168,7 +168,7 @@
         "chainId": 137,
         "symbol": "SUSHI",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a/logo.png"
       },
       {
         "name": "USD Coin",
@@ -264,7 +264,7 @@
         "chainId": 80001,
         "address": "0xd7b75e7974cdebc3e591508b33aa93304f333012",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/token/4b8d27c4c696a6d303e1b248d774c0c12f76251b/xoLOVE.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x38a09EF7300becc2dE6824423C8AB5C9b93e418c/logo.png"
       }
     ]
   } 
