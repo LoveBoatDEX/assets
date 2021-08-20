@@ -14,7 +14,7 @@
         "name": "Love",
         "symbol": "LOVE",
         "chainId": 137,
-        "address": "0x69bde563680f580a2da5b5d4e202eca4fdf35664",
+        "address": "0x69bdE563680f580A2da5b5d4E202ecA4FDF35664",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/token/5afc8e94b3c94d613c52d20432946d3964cc6f0c/LOVE.png"
       },
@@ -22,7 +22,7 @@
         "name": "XOLOVE Dividends",
         "symbol": "xoLOVE",
         "chainId": 137,
-        "address": "0x38a09ef7300becc2de6824423c8ab5c9b93e418c",
+        "address": "0x38a09EF7300becc2dE6824423C8AB5C9b93e418c",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/token/4b8d27c4c696a6d303e1b248d774c0c12f76251b/xoLOVE.png"
       },
@@ -102,7 +102,7 @@
         "name": "renDOGE",
         "symbol": "renDOGE",
         "chainId": 137,
-        "address": "0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6",
+        "address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
         "decimals": 8,
         "logoURI": "https://assets.coingecko.com/coins/images/13796/large/renDOGE.png"
       },
@@ -123,6 +123,14 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png"
       },
       {
+        "name": "Aavegotchi GHST Token (PoS)",
+        "symbol": "GHST",
+        "chainId": 137,
+        "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12467/large/ghst_200.png"
+      },
+      {
         "name": "Matic Token",
         "symbol": "MATIC",
         "chainId": 137,
@@ -134,7 +142,7 @@
         "name": "Wrapped Matic",
         "symbol": "WMATIC",
         "chainId": 137,
-        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
         "decimals": 18,
         "logoURI": "https://assets.coingecko.com/coins/images/14073/large/matic.jpg"
       },
