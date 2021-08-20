@@ -1,6 +1,6 @@
 {
     "name": "Love Boat Token List",
-    "timestamp": "2021-07-01T23:57:10.982Z",
+    "timestamp": "2021-08-20T20:49:30.982Z",
     "version": {
       "major": 1,
       "minor": 0,
@@ -176,7 +176,7 @@
         "chainId": 80001,
         "address": "0x2058a9d7613eee744279e3856ef0eada5fcbaa7e",
         "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
       },
       {
         "name": "Tether USD",
@@ -184,7 +184,7 @@
         "chainId": 80001,
         "address": "0x9e38966f91274f418040241b39deaef43049c233",
         "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
       },
       {
         "name": "Dai Stablecoin",
@@ -192,7 +192,7 @@
         "chainId": 80001,
         "address": "0x001b3b4d0f3714ca98ba10f6042daebf0b1b7b6f",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/9956/large/dai-multi-collateral-mcd.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
       },
       {
         "name": "Wrapped Ether",
@@ -200,7 +200,7 @@
         "chainId": 80001,
         "address": "0x3c68ce8504087f89c640d02d133646d98e64ddd9",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
       },
       {
         "name": "WBTC",
@@ -208,7 +208,7 @@
         "chainId": 80001,
         "address": "0x0d787a4a1548f673ed375445535a6c7a1ee56180",
         "decimals": 8,
-        "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.png"
       },
       {
         "name": "ChainLink Token",
@@ -216,7 +216,7 @@
         "chainId": 80001,
         "address": "0x326c977e6efc84e512bb9c30f76e30c160ed06fb",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
       },
       {
         "name": "Crv",
@@ -224,7 +224,7 @@
         "chainId": 80001,
         "address": "0x96a3367A2CD8f2963Fd442a26c0f4e7951F75c56",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
       },
       {
         "name": "Synthetix Network Token",
@@ -232,7 +232,7 @@
         "chainId": 80001,
         "address": "0x99ad600dda7879CFD0FdC55124585603DEED0070",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/3406/large/SNX.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x50B728D8D964fd00C2d0AAD81718b71311feF68a/logo.png"
       },
       {
         "name": "Graph Token",
@@ -240,7 +240,7 @@
         "chainId": 80001,
         "address": "0x0b5da6Dda6569Ab79300AeEe6b30F86cBA347E3a",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x5fe2B58c013d7601147DcdD68C143A77499f5531/logo.png"
       },
       {
         "name": "Matic",
@@ -248,7 +248,7 @@
         "chainId": 80001,
         "address": "0x0000000000000000000000000000000000001010",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x0000000000000000000000000000000000001010/logo.png"
       },
       {
         "name": "Wrapped Matic",
@@ -256,7 +256,7 @@
         "chainId": 80001,
         "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/14073/large/matic.jpg"
+        "logoURI": "https://raw.githubusercontent.com/LoveBoatDEX/assets/main/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
       },
       {
         "name": "XOLOVE Dividends",
